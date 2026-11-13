@@ -1,6 +1,6 @@
 # Haneen T. Al Thawabieh — Architecture portfolio
 
-Live site: https://haneentthwabieh-glitch.github.io/Haneen-Thawabieh/
+Live site: https://haneenalthawabieh.github.io/
 
 ## How the site is built
 - `index.html` + `app.js` are the built site (React + TypeScript, bundled with esbuild).
